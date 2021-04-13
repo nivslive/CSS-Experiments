@@ -4,7 +4,8 @@ https://nivslive.github.io/CSS-Experiments/
 
 <h1> PROJECTS </h1>
 
-Spotify 2018 - Desenvolvido na unidade final de Bootstrap no Curso de FullStack Web do Jamilton Damasceno.
+Spotify 2018 - Developed in the final Bootstrap unit in Jamilton Damasceno's FullStack Web Course.
+https://nivslive.github.io/CSS-Experiments/BOOTSTRAP%20%20-%20Spotify%20(Nivanjr)/index.html
 
 <h1> EXPERIMENTS </h1>
 

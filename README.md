@@ -9,7 +9,7 @@ https://nivslive.github.io/CSS-Experiments/BOOTSTRAP%20%20-%20Spotify%20(Nivanjr
 
 <h1> EXPERIMENTS </h1>
 
-<h3>Animation #1</h3> - <h2> With CSS3 e HTML5 </h2>
+<h3>Animation #1</h3>
 https://nivslive.github.io/CSS-Experiments/css.html
 
 
